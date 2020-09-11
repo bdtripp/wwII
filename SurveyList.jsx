@@ -17,14 +17,6 @@ export default class SurveyList extends React.Component {
       );
     });
     
-   {/*  var surveyDivs = $(".survey col-sm-6");
-
-    for(var i = 0; i < surveyDivs.length; i+=2) {
-      surveyDivs.slice(i, i+2).wrapAll("<div class='row'></div>");
-    }
-    
-    */}
-    
     return <div className="survey_list">{surveys}</div>
   }
 }
