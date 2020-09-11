@@ -33,9 +33,12 @@ export default class ResponseList extends React.Component {
     });
     
     return (
-      <div className="response_list">
-        {responses}
-      </div>                                  
+      <div>
+        <h3>{survey.SURVEYS_topics} ({questionnaire.QUESTIONNAIRES_name})</h3>
+        <div className="response_list">
+          {responses}
+        </div>   
+      </div>                               
     ); 
   }
 }
