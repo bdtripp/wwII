@@ -1,0 +1,29 @@
+{
+  "name": "wwII",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/preset-react": "^7.10.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.1.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "file-system": "^2.2.2",
+    "jquery": "^3.5.1",
+    "jquery-csv": "^1.0.11",
+    "react": "^16.13.1",
+    "react-csv-reader": "^3.1.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.44.1",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "build": "node_modules/.bin/webpack -p",
+    "debug": "node_modules/.bin/webpack -d",
+    "dev": "node_modules/.bin/webpack-dev-server --progress --colors"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  }
+}
