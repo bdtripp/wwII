@@ -20,9 +20,13 @@ html body div#root div div.survey_list {
   display: flex;
   flex-wrap: wrap;
 }
+html body div#root div div.response_list {
+  text-align: center;
+}
 html body div#root div div.response_list img {
   margin: 0 0 10px 0;
   border-radius: 5px;
+  max-width: 900px;
 }
 html body div#root div div div.survey {
   float: none;
@@ -48,6 +52,9 @@ html body footer h2 {
         MIN-WIDTH 700PX
 ***********************/
 @media screen and (min-width: 700px) {
+  html body div#root div div.response_list img {
+    margin: 0 0 30px 0;
+  }
   html body div#root div div div.survey {
     flex-basis: 49%;
   }
