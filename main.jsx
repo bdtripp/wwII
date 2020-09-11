@@ -11,7 +11,7 @@ $(
     var questionnaires;
     var responses;
     
-    if (window.location.pathname.includes("wwII.html")) {
+    if (window.location.pathname.includes("surveys.html")) {
       $.when(
         $.get("data/survey_sample_data.csv", data => {
           surveys = csv.toObjects(data);
