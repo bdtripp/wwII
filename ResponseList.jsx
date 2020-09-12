@@ -32,13 +32,26 @@ export default class ResponseList extends React.Component {
       );
     });
     
-    return (
-      <div>
-        <h3>{survey.SURVEYS_topics} ({questionnaire.QUESTIONNAIRES_name})</h3>
-        <div className="response_list">
-          {responses}
-        </div>   
-      </div>                               
-    ); 
+    if(responses.length > 0) {
+      return (
+        <div>
+          <h3>{survey.SURVEYS_topics} ({questionnaire.QUESTIONNAIRES_name})</h3>
+          <div className="response_list">
+            {responses}
+          </div>   
+        </div>                               
+      ); 
+    } else {
+      return (
+        <div>
+          <h3>{survey.SURVEYS_topics} ({questionnaire.QUESTIONNAIRES_name})</h3>
+          <div className="response_list">
+            <p>Sorry, there are currently no responses to view for these questions.</p>
+          </div>   
+        </div>                               
+      ); 
+    }
+    
+    
   }
 }
