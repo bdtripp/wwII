@@ -1,5 +1,5 @@
 import React from 'react';
-import QuestionnaireImageList from './ResponseList.jsx';
+import QuestionnaireImageList from './QuestionnaireImageList.jsx';
 
 export default class Questionnaire extends React.Component {
   render() {
@@ -8,7 +8,7 @@ export default class Questionnaire extends React.Component {
     
     return (
       <div className="questionnaire">
-        <a href={"responses.html?questionId=" + questionnaire.QUESTIONNAIRES_identifier}>{questionnaire.QUESTIONNAIRES_name ? questionnaire.QUESTIONNAIRES_name : "No Name"}</a>
+        <a href={"responses.html?questionnaireId=" + questionnaire.QUESTIONNAIRES_identifier}>{questionnaire.QUESTIONNAIRES_name ? questionnaire.QUESTIONNAIRES_name : "No Name"}</a>
       </div>
     )
   }

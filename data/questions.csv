@@ -1,0 +1,26 @@
+﻿QUESTIONS_identifier,QUESTIONS_parent_id,QUESTIONS_parent_type,QUESTIONS_position_in_parent,QUESTIONS_type,QUESTIONS_question,QUESTIONS_is_multiple_choice,QUESTIONS_followup_prompt
+S002w.Q.118,S002w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S004w.Q.59,S004w,questionnaire,1,free,A choice question that allows multiple choices to be selected and has an attached free response prompt...,FALSE,Write any comments here
+S004c.Q.65,S004c,questionnaire,1,choice,A choice question that allows multiple choices to be selected and has an attached free response prompt...,TRUE,Write any comments here
+S004c.Q.66,S004c,questionnaire,2,choice,A choice question that allows multiple choices to be selected and has an attached free response prompt...,TRUE,Write any comments here
+S132a.Q.51-53,S132a,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S032w.Q.63,S032w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S032c.Q.78,S032c,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S040w.Q.79,S040w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S063E.Q.100,S063E,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S063F.Q.97-101,S063F,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S063G.Q.97-98,S063G,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S064w.Q.95-97,S064w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S077B.Q.103,S077B,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S079w.Q.80,S079w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S086w.Q.101,S086w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S141w.Q.83,S141w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S1060w.Q.46-49,S1060w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S1060c.Q.49-51,S1060c,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S106H.Q.72-73,S106H,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S106E.Q.95-98,S106E,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S144w.Q.85,S144w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S205c.Q.99-100,S205c,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S205w.Q.69,S205w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S211B.Q.77,S211B,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
+S218w.Q.78-79,S218w,questionnaire,1,free,Space to write out answer,FALSE,Write any comments here
