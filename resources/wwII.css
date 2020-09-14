@@ -17,6 +17,9 @@ img {
 #page-body.no-sidebar {
   background: transparent;
 }
+html body div#root div {
+  text-align: center;
+}
 html body div#root div h2 {
   margin: 0 0 20px 0;
 }
@@ -24,13 +27,30 @@ html body div#root div div.survey_list {
   display: flex;
   flex-wrap: wrap;
 }
-html body div#root div div.response_list {
-  text-align: center;
+html body div#root div div#image_carousel div#image_container {
+  position: relative;
 }
-html body div#root div div.response_list img {
-  margin: 0 0 10px 0;
+html body div#root div div#image_carousel div#image_container p#image_num {
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 5px;
   border-radius: 5px;
-  max-width: 900px;
+  line-height: 1;
+}
+html body div#root div div#image_carousel img.arrow {
+  width: auto;
+  position: absolute;
+  top: 50%;
+  transition: opacity 0.3s ease-in;
+}
+html body div#root div div#image_carousel img#left_arrow {
+  left: 15%;
+}
+html body div#root div div#image_carousel img#right_arrow {
+  right: 15%;
 }
 html body div#root div div div.survey {
   float: none;
@@ -56,8 +76,29 @@ html body footer h2 {
         MIN-WIDTH 700PX
 ***********************/
 @media screen and (min-width: 700px) {
-  html body div#root div div.response_list img {
-    margin: 0 0 30px 0;
+  html body div#root div div#image_carousel {
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+  }
+  html body div#root div div#image_carousel div#image_container {
+    display: inline-block;
+  }
+  html body div#root div div#image_carousel div#image_container img {
+    border-radius: 5px;
+    width: auto;
+  }
+  html body div#root div div#image_carousel img.arrow {
+    width: auto;
+    position: absolute;
+    top: 50%;
+    display: block;
+  }
+  html body div#root div div#image_carousel img#left_arrow {
+    left: 15%;
+  }
+  html body div#root div div#image_carousel img#right_arrow {
+    right: 15%;
   }
   html body div#root div div div.survey {
     flex-basis: 49%;

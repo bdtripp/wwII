@@ -1,5 +1,4 @@
 import React from 'react';
-import QuestionnaireImageList from './QuestionnaireImageList.jsx';
 
 export default class Questionnaire extends React.Component {
   render() {
