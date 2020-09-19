@@ -6,55 +6,104 @@
 8550422f-89d5-479f-80de-03c5af2f3b12,S004c.Q.65,Slightly interested,3
 8550422f-89d5-479f-80de-03c5af2f4b12,S004c.Q.65,Not interested at all,4
 8550422f-89d5-479f-80de-13c5af2f1b12,S004c.Q.66,An answer,1
-8550422f-89d5-479f-80de-03c5af2f1b13,S132a.Q.51-53,As a soldier,1
-8550422f-89d5-479f-80de-03c5af2f2b13,S132a.Q.51-53,As a war worker,2
-8550422f-89d5-479f-80de-03c5af2f3b13,S132a.Q.51-53,Undecided,3
-8550422f-89d5-479f-80de-03c5af2f1b30,S032w.Q.63,They should be in separate outfits,1
+8550422f-89d5-479f-80de-03c5af2f1b13,S132a.Q.51,As a soldier,1
+8550422f-89d5-479f-80de-03c5af2f2b13,S132a.Q.51,As a war worker,2
+8550422f-89d5-479f-80de-03c5af2f3b13,S132a.Q.51,Undecided,3
+8550422f-89d5-479f-80de-13c5af2f1b13,S132a.Q.52,"Yes, in most ways I have",1
+8550422f-89d5-479f-80de-13c5af2f2b13,S132a.Q.52,"In some ways, yes, I other ways, no",2
+8550422f-89d5-479f-80de-13c5af2f3b13,S132a.Q.52,"No, on the whole I have not gotten a square deal",3
+8550422f-89d5-479f-80de-23c5af2f1b13,S132a.Q.53,An answer,1
+8550422f-89d5-479f-80de-23c5af2f2b13,S132a.Q.53,No answer,2
+8550422f-89d5-479f-80de-03c5af2f1b30,S032w.Q.63,They should be together in the same outfit,1
 b35b0c2a-a067-4135-be2f-eb97a25c21fd,S032w.Q.63,They should be together in the same outfit,2
 04afc10e-b8f5-4157-8f96-3192d70718f0,S032w.Q.63,It doesn't make any difference,3
 04afc10e-b8f5-4157-8f96-3192d70718f1,S032w.Q.63,Undecided,4
+04afc10e-b8f5-4157-8f96-3192d70718f4,S032w.Q.64,An answer,1
+04afc10e-b8f5-4157-8f96-3192d70728f4,S032w.Q.64,No answer,2
 8550422f-89d5-479f-80de-03c5af2f1b14,S032c.Q.78,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b15,S040w.Q.79,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b16,S063E.Q.100,An answer,1
-8550422f-89d5-479f-80de-03c5af2f1b17,S063F.Q.97-101,We wil get along very well,1
-8550422f-89d5-479f-80de-03c5af2f2b17,S063F.Q.97-101,We will disagree about some things but manage to get along,2
-8550422f-89d5-479f-80de-03c5af2f3b17,S063F.Q.97-101,We will have some serious argtuments but we won't fight each other,3
-8550422f-89d5-479f-80de-03c5af2f4b17,S063F.Q.97-101,We will very likely fight each other sooner or later,4
-8550422f-89d5-479f-80de-03c5af2f5b17,S063F.Q.97-101,Undecided,5
-8550422f-89d5-479f-80de-03c5af2f1b18,S063G.Q.97-98,We will get along very well,1
-8550422f-89d5-479f-80de-03c5af2f2b18,S063G.Q.97-98,We will disagree about some things but manage to get along,2
-8550422f-89d5-479f-80de-03c5af2f3b18,S063G.Q.97-98,We will have some serious argtuments but we won't fight each other,3
-8550422f-89d5-479f-80de-03c5af2f4b18,S063G.Q.97-98,We will very likely fight each other sooner or later,4
-8550422f-89d5-479f-80de-03c5af2f5b18,S063G.Q.97-98,Undecided,5
-8550422f-89d5-479f-80de-03c5af2f1b19,S064w.Q.95-97,"Yes, I have had my fair share of both furloughs and passes",1
-8550422f-89d5-479f-80de-03c5af2f2b19,S064w.Q.95-97,"I have had my fair share of furloughs, but not of passes",2
-8550422f-89d5-479f-80de-03c5af2f3b19,S064w.Q.95-97,"I have had my fair share of passes, but not of furloughs",3
-8550422f-89d5-479f-80de-03c5af2f4b19,S064w.Q.95-97,"No, I have not had my fair share of either furloughs or passes",4
+8550422f-89d5-479f-80de-03c5af2f1b17,S063F.Q.97,We will get along very well,1
+8550422f-89d5-479f-80de-03c5af2f2b17,S063F.Q.97,We will disagree about some things but manage to get along,2
+8550422f-89d5-479f-80de-03c5af2f3b17,S063F.Q.97,We will have some serious argtuments but we won't fight each other,3
+8550422f-89d5-479f-80de-03c5af2f4b17,S063F.Q.97,We will very likely fight each other sooner or later,4
+8550422f-89d5-479f-80de-03c5af2f5b17,S063F.Q.97,Undecided,5
+8550422f-89d5-479f-80de-13c5af2f1b17,S063F.Q.98,I was absent without leave # days the last time,1
+8550422f-89d5-479f-80de-23c5af2f1b17,S063F.Q.99,I went to some city near my camp,1
+8550422f-89d5-479f-80de-23c5af2f2b17,S063F.Q.99,I went to my home town,2
+8550422f-89d5-479f-80de-23c5af2f3b17,S063F.Q.99,I went somewhere else,3
+8550422f-89d5-479f-80de-33c5af2f1b17,S063F.Q.100,Once,1
+8550422f-89d5-479f-80de-33c5af2f2b17,S063F.Q.100,Twice,2
+8550422f-89d5-479f-80de-33c5af2f3b17,S063F.Q.100,Three or more times,3
+8550422f-89d5-479f-80de-43c5af2f1b17,S063F.Q.101,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b18,S063G.Q.97,We will get along very well,1
+8550422f-89d5-479f-80de-03c5af2f2b18,S063G.Q.97,We will disagree about some things but manage to get along,2
+8550422f-89d5-479f-80de-03c5af2f3b18,S063G.Q.97,We will have some serious argtuments but we won't fight each other,3
+8550422f-89d5-479f-80de-03c5af2f4b18,S063G.Q.97,We will very likely fight each other sooner or later,4
+8550422f-89d5-479f-80de-03c5af2f5b18,S063G.Q.97,Undecided,5
+8550422f-89d5-479f-80de-13c5af2f1b18,S063G.Q.98,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b19,S064w.Q.95,"Yes, I have had my fair share of both furloughs and passes",1
+8550422f-89d5-479f-80de-03c5af2f2b19,S064w.Q.95,"I have had my fair share of furloughs, but not of passes",2
+8550422f-89d5-479f-80de-03c5af2f3b19,S064w.Q.95,"I have had my fair share of passes, but not of furloughs",3
+8550422f-89d5-479f-80de-03c5af2f4b19,S064w.Q.95,"No, I have not had my fair share of either furloughs or passes",4
+8550422f-89d5-479f-80de-13c5af2f1b19,S064w.Q.96,Things are a lot better,1
+8550422f-89d5-479f-80de-13c5af2f2b19,S064w.Q.96,"Things are a little better, but not much",2
+8550422f-89d5-479f-80de-13c5af2f3b19,S064w.Q.96,I don't see any difference,3
+8550422f-89d5-479f-80de-13c5af2f4b19,S064w.Q.96,Things are a little worse,4
+8550422f-89d5-479f-80de-13c5af2f5b19,S064w.Q.96,Things are a lot worse,5
+8550422f-89d5-479f-80de-13c5af2f5b19,S064w.Q.96,Don't know,6
+8550422f-89d5-479f-80de-23c5af2f1b19,S064w.Q.97,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b1a,S077B.Q.103,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b1b,S079w.Q.80,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b1c,S086w.Q.101,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b1d,S141w.Q.83,An answer,1
-8550422f-89d5-479f-80de-03c5af2f1b4a,S1060w.Q.46-49,"Yes, I plan to live there for a long time to come",1
-8550422f-89d5-479f-80de-03c5af2f1b4b,S1060w.Q.46-49,"Yes, but only for a short time",2
-8550422f-89d5-479f-80de-03c5af2f1b4c,S1060w.Q.46-49,"No, never",3
-8550422f-89d5-479f-80de-03c5af2f1b4d,S1060w.Q.46-49,Undecided,4
-8550422f-89d5-479f-80de-03c5af2f1b1e,S1060c.Q.49-51,I had thought a good deal about it,1
-8550422f-89d5-479f-80de-03c5af2f2b1e,S1060c.Q.49-51,I had thought some about it,2
-8550422f-89d5-479f-80de-03c5af2f3b1e,S1060c.Q.49-51,I had hardly thought about it,3
-8550422f-89d5-479f-80de-03c5af2f1b1f,S106H.Q.72-73,It has delayed carying out my plans but hasn't changed them much,1
-8550422f-89d5-479f-80de-03c5af2f2b1f,S106H.Q.72-73,It has delayed carrying out some plans and has changed others,2
-8550422f-89d5-479f-80de-03c5af2f3b1f,S106H.Q.72-73,It has changed most of my plans,3
-8550422f-89d5-479f-80de-03c5af2f4b1f,S106H.Q.72-73,I really didn't have any very definite plans,4
-8550422f-89d5-479f-80de-03c5af2f1b51,S106E.Q.95-98,It seems better than I expected it to be ,1
-8550422f-89d5-479f-80de-03c5af2f1b52,S106E.Q.95-98,It seems just about the way I expected it to be,2
-8550422f-89d5-479f-80de-03c5af2f1b53,S106E.Q.95-98,It does not seem as good as I expected it to be,3
+8550422f-89d5-479f-80de-03c5af2f1b4a,S1060w.Q.46,"Yes, I plan to live there for a long time to come",1
+8550422f-89d5-479f-80de-03c5af2f1b4b,S1060w.Q.46,"Yes, but only for a short time",2
+8550422f-89d5-479f-80de-03c5af2f1b4c,S1060w.Q.46,"No, never",3
+8550422f-89d5-479f-80de-03c5af2f1b4d,S1060w.Q.46,Undecided,4
+8550422f-89d5-479f-80de-13c5af2f1b4a,S1060w.Q.47,I had thought a good deal about it,1
+8550422f-89d5-479f-80de-13c5af2f1b4b,S1060w.Q.47,I had thought some about it,2
+8550422f-89d5-479f-80de-13c5af2f1b4c,S1060w.Q.47,I had hardly thought about it,3
+8550422f-89d5-479f-80de-23c5af2f1b4a,S1060w.Q.48,It has delayed carrying out my plans but hasn't changed them much,1
+8550422f-89d5-479f-80de-23c5af2f1b4b,S1060w.Q.48,It has delayed carrying out some plans and has changed others,2
+8550422f-89d5-479f-80de-23c5af2f1b4c,S1060w.Q.48,It has changed most of my plans,3
+8550422f-89d5-479f-80de-23c5af2f1b4d,S1060w.Q.48,I really didn't have any very definite plans,4
+8550422f-89d5-479f-80de-23c5af2f1b4f,S1060w.Q.48,An answer,5
+8550422f-89d5-479f-80de-33c5af2f1b4f,S1060w.Q.49,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b1e,S1060c.Q.49,I had thought a good deal about it,1
+8550422f-89d5-479f-80de-03c5af2f2b1e,S1060c.Q.49,I had thought some about it,2
+8550422f-89d5-479f-80de-03c5af2f3b1e,S1060c.Q.49,I had hardly thought about it,3
+8550422f-89d5-479f-80de-13c5af2f1b1e,S1060c.Q.50,I has delayed carrying out my plans but hasn't changed them much,1
+8550422f-89d5-479f-80de-13c5af2f2b1e,S1060c.Q.50,It has delayed carrying out some plans and has changed others,2
+8550422f-89d5-479f-80de-13c5af2f3b1e,S1060c.Q.50,It has changed most of my plans,3
+8550422f-89d5-479f-80de-13c5af2f4b1e,S1060c.Q.50,I really didn't have any very definite plans,4
+8550422f-89d5-479f-80de-23c5af2f1b1e,S1060c.Q.51,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b1f,S106H.Q.72,It has delayed carying out my plans but hasn't changed them much,1
+8550422f-89d5-479f-80de-03c5af2f2b1f,S106H.Q.72,It has delayed carrying out some plans and has changed others,2
+8550422f-89d5-479f-80de-03c5af2f3b1f,S106H.Q.72,It has changed most of my plans,3
+8550422f-89d5-479f-80de-03c5af2f4b1f,S106H.Q.72,I really didn't have any very definite plans,4
+8550422f-89d5-479f-80de-03c5af2f5b1f,S106H.Q.72,An answer,5
+8550422f-89d5-479f-80de-13c5af2f1b1f,S106H.Q.73,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b51,S106E.Q.95,It seems better than I expected it to be ,1
+8550422f-89d5-479f-80de-03c5af2f2b51,S106E.Q.95,It seems just about the way I expected it to be,2
+8550422f-89d5-479f-80de-03c5af2f3b51,S106E.Q.95,It does not seem as good as I expected it to be,3
+8550422f-89d5-479f-80de-03c5af2f4b51,S106E.Q.95,An answer,4
+8550422f-89d5-479f-80de-13c5af2f1b51,S106E.Q.96,I want to get overseas again as soon as possible,1
+8550422f-89d5-479f-80de-13c5af2f2b51,S106E.Q.96,I'm ready to go whenever I'm needed,2
+8550422f-89d5-479f-80de-13c5af2f3b51,S106E.Q.96,"I'd like to stay in the U.S. for a few months, but then I'll be ready to go anywhere",3
+8550422f-89d5-479f-80de-13c5af2f4b51,S106E.Q.96,I don't want to go overseas again because --,4
+8550422f-89d5-479f-80de-23c5af2f1b51,S106E.Q.97,Better now than I was just before I came back,1
+8550422f-89d5-479f-80de-23c5af2f2b51,S106E.Q.97,About the same now as then ,2
+8550422f-89d5-479f-80de-23c5af2f3b51,S106E.Q.97,Worse now than I was just before I came back,3
+8550422f-89d5-479f-80de-33c5af2f3b51,S106E.Q.98,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b54,S144w.Q.85,An answer,1
-8550422f-89d5-479f-80de-03c5af2f1b55,S205c.Q.99-100,Italy should be given the same voice in world affairs as liberated countries,1
-8550422f-89d5-479f-80de-03c5af2f2b55,S205c.Q.99-100,"Italy should be given some voice in world affairs, but not as much as liberated countries",2
-8550422f-89d5-479f-80de-03c5af2f3b55,S205c.Q.99-100,Italy should not be given any voice in world affairs,3
-8550422f-89d5-479f-80de-03c5af2f4b55,S205c.Q.99-100,Undecided,4
+8550422f-89d5-479f-80de-03c5af2f1b55,S205c.Q.99,Italy should be given the same voice in world affairs as liberated countries,1
+8550422f-89d5-479f-80de-03c5af2f2b55,S205c.Q.99,"Italy should be given some voice in world affairs, but not as much as liberated countries",2
+8550422f-89d5-479f-80de-03c5af2f3b55,S205c.Q.99,Italy should not be given any voice in world affairs,3
+8550422f-89d5-479f-80de-03c5af2f4b55,S205c.Q.99,Undecided,4
+8550422f-89d5-479f-80de-13c5af2f4b55,S205c.Q.100,An answer,1
 8550422f-89d5-479f-80de-03c5af2f1b56,S205w.Q.69,O.K. if doing jobs soldiers are not equipped to do,1
 8550422f-89d5-479f-80de-03c5af2f2b56,S205w.Q.69,O.K. if doing jobs which soldiers could be used for,2
 8550422f-89d5-479f-80de-03c5af2f3b56,S205w.Q.69,All work on Army posts should be done by men in uniform,3
 8550422f-89d5-479f-80de-03c5af2f1b57,S211B.Q.77,An answer,1
-8550422f-89d5-479f-80de-03c5af2f1b58,S218w.Q.78-79,An answer,1
+8550422f-89d5-479f-80de-03c5af2f1b58,S218w.Q.78,An answer,1

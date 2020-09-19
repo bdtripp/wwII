@@ -30,7 +30,7 @@ html body div#root div div.survey_list {
 html body div#root div div#image_carousel div#image_container {
   position: relative;
 }
-html body div#root div div#image_carousel div#image_container p#image_num {
+html body div#root div div#image_carousel div#image_container p#count_display {
   position: absolute;
   right: 5px;
   top: 5px;
@@ -45,6 +45,10 @@ html body div#root div div#image_carousel img.arrow {
   position: absolute;
   top: 50%;
   transition: opacity 0.3s ease-in;
+}
+html body div#root div div#image_carousel img.arrow:hover {
+  opacity: 1;
+  cursor: pointer;
 }
 html body div#root div div#image_carousel img#left_arrow {
   left: 15%;
